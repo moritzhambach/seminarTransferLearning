@@ -1,0 +1,14 @@
+name: transferLearning
+channels:
+  - conda-forge
+dependencies:
+  - python=3.7
+  - scikit-learn==0.22.1
+  - pip
+  - matplotlib
+  - numpy=1.16.4
+  - pandas=0.25.1
+  - pillow
+  - pip:
+    - ktrain==0.1.2
+    - tensorflow
