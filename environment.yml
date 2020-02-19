@@ -10,5 +10,5 @@ dependencies:
   - pandas=0.25.1
   - pillow
   - pip:
-    - ktrain==0.1.2
+    - ktrain==0.9.4
     - tensorflow
