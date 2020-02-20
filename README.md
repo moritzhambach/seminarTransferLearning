@@ -1,7 +1,7 @@
 ## Installation:
 
 option 1:
-* in (base): 'conda install nb_conda'
+* in (base): '''conda install nb_conda'''
 * 'conda env create -f environment.yml' (create environment)
 * 'conda activate transferLearning' (activate environment)
 * in (transferLearning): 'conda install ipykernel'
