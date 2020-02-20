@@ -12,3 +12,5 @@ dependencies:
   - pip:
     - ktrain==0.9.4
     - tensorflow
+    - git+https://github.com/amaiya/eli5@tfkeras_0_10_1 # needed for explainer function
+    
